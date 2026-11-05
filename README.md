@@ -1,17 +1,24 @@
-# intern_app
+# Simple UI Using Figma
 
-A new Flutter project.
+## About The Project
+A simple and clean Flutter UI project developed by following a Figma design.
 
-## Getting Started
+## Features
+- Simple and Clean UI
+- Modern Layout Design
+- User-Friendly Interface
+- Flutter Widget Practice
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter
+- Dart
+- Android Studio
+- Figma
 
-A few resources to get you started if this is your first Flutter project:
+## Project Purpose
+This project was created for practicing Flutter UI development and improving design-to-code skills using Figma.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Developer
+Mamun-Dev-426
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+GitHub: https://github.com/Mamun-Dev-426
